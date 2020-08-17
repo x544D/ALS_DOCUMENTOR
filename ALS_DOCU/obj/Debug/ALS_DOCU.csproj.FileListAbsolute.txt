@@ -1,0 +1,12 @@
+C:\Users\544D\Desktop\ALS_DOCU\ALS_DOCU\bin\Debug\ALS_DOCU.exe.config
+C:\Users\544D\Desktop\ALS_DOCU\ALS_DOCU\bin\Debug\ALS_DOCU.exe
+C:\Users\544D\Desktop\ALS_DOCU\ALS_DOCU\bin\Debug\ALS_DOCU.pdb
+C:\Users\544D\Desktop\ALS_DOCU\ALS_DOCU\obj\Debug\ALS_DOCU.csprojAssemblyReference.cache
+C:\Users\544D\Desktop\ALS_DOCU\ALS_DOCU\obj\Debug\ALS_DOCU.Form1.resources
+C:\Users\544D\Desktop\ALS_DOCU\ALS_DOCU\obj\Debug\ALS_DOCU.Insert.resources
+C:\Users\544D\Desktop\ALS_DOCU\ALS_DOCU\obj\Debug\ALS_DOCU.Properties.Resources.resources
+C:\Users\544D\Desktop\ALS_DOCU\ALS_DOCU\obj\Debug\ALS_DOCU.csproj.GenerateResource.cache
+C:\Users\544D\Desktop\ALS_DOCU\ALS_DOCU\obj\Debug\ALS_DOCU.csproj.CoreCompileInputs.cache
+C:\Users\544D\Desktop\ALS_DOCU\ALS_DOCU\obj\Debug\ALS_DOCU.exe
+C:\Users\544D\Desktop\ALS_DOCU\ALS_DOCU\obj\Debug\ALS_DOCU.pdb
+C:\Users\544D\Desktop\ALS_DOCU\ALS_DOCU\obj\Debug\ALS_DOCU.Search.resources
